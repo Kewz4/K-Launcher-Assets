@@ -1,0 +1,3 @@
+fwa+1.21.1-1.1.1.jar
+radialhotbar-0.4.0+1.21.1-fabric.jar
+wild_battle_api-fabric-1.0.1.jar
