@@ -1,0 +1,4 @@
+cobblemon-additions-4.2.1.jar
+SubtleEffects-fabric-1.21.1-1.13.2-hotfix.1.jar
+fwa+1.21.1-1.1.12.jar
+ftb-quests-fabric-2101.1.22.jar

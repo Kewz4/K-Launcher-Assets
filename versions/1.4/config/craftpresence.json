@@ -1,0 +1,623 @@
+{
+  "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
+  "_NOTE": "Kewz's Cobblemon — private server for friends. Prism Launcher.",
+  "_schemaVersion": 7,
+  "_lastMCVersionId": 767,
+  "generalSettings": {
+    "detectATLauncherInstance": false,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "detectModrinthPack": false,
+    "detectBiomeData": true,
+    "detectDimensionData": true,
+    "detectWorldData": true,
+    "clientId": "1395247173402103848",
+    "defaultIcon": "default",
+    "enableJoinRequests": false,
+    "preferredClientLevel": 3,
+    "resetTimeOnInit": false,
+    "autoRegister": false
+  },
+  "biomeSettings": {
+    "fallbackBiomeIcon": "unknown",
+    "biomeData": {
+      "default": {
+        "textOverride": "🌿 Searching {biome.name} for Pokémon"
+      },
+      "Plains": {
+        "textOverride": "🪨 Kanto GYM — Looking for Brock (Boulder Badge)"
+      },
+      "Sunflower Plains": {
+        "textOverride": "🌻 Kanto — Golden Sunflower Fields"
+      },
+      "Forest": {
+        "textOverride": "🌲 Kanto — Viridian Forest"
+      },
+      "Birch Forest": {
+        "textOverride": "🌳 Kanto — Route 2 Woodlands"
+      },
+      "Flower Forest": {
+        "textOverride": "🌿 Kanto GYM — Looking for Erika (Rainbow Badge)"
+      },
+      "Meadow": {
+        "textOverride": "🍀 Johto — Route 34 Meadow"
+      },
+      "Cherry Grove": {
+        "textOverride": "🍒 Johto GYM — Looking for Chiara (Plain Badge)"
+      },
+      "Dark Forest": {
+        "textOverride": "🔮 Kanto GYM — Looking for Sabrina (Marsh Badge)"
+      },
+      "Jungle": {
+        "textOverride": "🌴 Johto — Mt. Mortar Jungle"
+      },
+      "Sparse Jungle": {
+        "textOverride": "🐛 Johto GYM — Looking for Raffaello (Hive Badge)"
+      },
+      "Bamboo Jungle": {
+        "textOverride": "🎋 Johto — Safari Zone Jungle"
+      },
+      "Beach": {
+        "textOverride": "💧 Sinnoh GYM — Looking for Omar (Fen Badge)"
+      },
+      "Ocean": {
+        "textOverride": "🌊 Hoenn — Surfing Route 110"
+      },
+      "Deep Ocean": {
+        "textOverride": "🌊 Hoenn — Deep Sea Diving"
+      },
+      "Warm Ocean": {
+        "textOverride": "🐠 Hoenn — Ever Grande Coral Reef"
+      },
+      "Lukewarm Ocean": {
+        "textOverride": "💧 Kanto GYM — Looking for Misty (Cascade Badge)"
+      },
+      "Cold Ocean": {
+        "textOverride": "💧 Hoenn GYM — Looking for Adriano (Rain Badge)"
+      },
+      "Frozen Ocean": {
+        "textOverride": "🧊 Sinnoh — Snowpoint Frozen Shore"
+      },
+      "Savanna": {
+        "textOverride": "🦁 Hoenn — Route 111 Savanna"
+      },
+      "Savanna Plateau": {
+        "textOverride": "⚡ Kanto GYM — Looking for Lt. Surge (Thunder Badge)"
+      },
+      "Windswept Savanna": {
+        "textOverride": "💨 Hoenn — Fortree City Treetops"
+      },
+      "Badlands": {
+        "textOverride": "🏜️ Hoenn — Mirage Tower Desert"
+      },
+      "Eroded Badlands": {
+        "textOverride": "🏜️ Hoenn — Desert Ruins Badlands"
+      },
+      "Wooded Badlands": {
+        "textOverride": "🏜️ Hoenn — Desert Edge Scrubland"
+      },
+      "Desert": {
+        "textOverride": "👊 Johto GYM — Looking for Furio (Storm Badge)"
+      },
+      "Swamp": {
+        "textOverride": "☠️ Kanto GYM — Looking for Koga (Soul Badge)"
+      },
+      "Mangrove Swamp": {
+        "textOverride": "🌿 Hoenn — Petalburg Mangroves"
+      },
+      "Snowy Plains": {
+        "textOverride": "❄️ Sinnoh — Snowpoint City Tundra"
+      },
+      "Ice Spikes": {
+        "textOverride": "🧊 Johto GYM — Looking for Alfredo (Glacier Badge)"
+      },
+      "Snowy Taiga": {
+        "textOverride": "🌨️ Sinnoh — Route 216 Blizzard"
+      },
+      "Taiga": {
+        "textOverride": "🔩 Johto GYM — Looking for Jasmine (Mineral Badge)"
+      },
+      "Old Growth Pine Taiga": {
+        "textOverride": "🌲 Sinnoh — Eterna Forest Depths"
+      },
+      "Old Growth Spruce Taiga": {
+        "textOverride": "🌲 Sinnoh — Old Chateau Woods"
+      },
+      "Grove": {
+        "textOverride": "❄️ Sinnoh — Mt. Coronet Snow Grove"
+      },
+      "Snowy Slopes": {
+        "textOverride": "⛰️ Sinnoh — Mt. Coronet Ascent"
+      },
+      "Jagged Peaks": {
+        "textOverride": "🏔️ Sinnoh — Mt. Coronet Peak"
+      },
+      "Frozen Peaks": {
+        "textOverride": "🌌 Sinnoh — Spear Pillar Summit"
+      },
+      "Stony Peaks": {
+        "textOverride": "⛰️ Sinnoh — Stark Mountain"
+      },
+      "Windswept Hills": {
+        "textOverride": "🦅 Johto GYM — Looking for Valerio (Zephyr Badge)"
+      },
+      "Windswept Forest": {
+        "textOverride": "🌬️ Kanto — Mt. Moon Pass"
+      },
+      "Windswept Gravelly Hills": {
+        "textOverride": "🪨 Kanto — Rock Tunnel Bluffs"
+      },
+      "Stony Shore": {
+        "textOverride": "🪨 Johto — Olivine City Shoreline"
+      },
+      "Mushroom Fields": {
+        "textOverride": "🍄 ??? — Unknown Island"
+      },
+      "Dripstone Caves": {
+        "textOverride": "🕳️ Exploring Cave Depths"
+      },
+      "Lush Caves": {
+        "textOverride": "👻 Johto GYM — Looking for Angelo (Fog Badge)"
+      },
+      "Deep Dark": {
+        "textOverride": "🌑 Kanto GYM — Looking for Giovanni (Earth Badge)"
+      },
+      "Nether Wastes": {
+        "textOverride": "🔥 Nether — Where No Trainer Dares Go"
+      },
+      "Soul Sand Valley": {
+        "textOverride": "🐉 Johto GYM — Looking for Sandra (Rising Badge)"
+      },
+      "Crimson Forest": {
+        "textOverride": "🔥 Kanto GYM — Looking for Blaine (Volcano Badge)"
+      },
+      "Warped Forest": {
+        "textOverride": "💙 Nether — Warped Forest"
+      },
+      "Basalt Deltas": {
+        "textOverride": "🌋 Nether — Basalt Deltas"
+      },
+      "End Barrens": {
+        "textOverride": "🌌 The End — Edge of the Elite Four Tower"
+      },
+      "End Midlands": {
+        "textOverride": "🏆 Elite Four Tower — The Champions await..."
+      },
+      "End Highlands": {
+        "textOverride": "🏆 Elite Four Tower — Battling for the Championship!"
+      },
+      "Small End Islands": {
+        "textOverride": "🌌 The End — Lost near the Elite Four Tower"
+      },
+      "The Void": {
+        "textOverride": "🌀 The Void — ???"
+      },
+      "Alpha Islands": {
+        "textOverride": "🏝️ Kanto — Cinnabar Island?"
+      },
+      "Alpha Islands Winter": {
+        "textOverride": "❄️ Sinnoh — Snowbound Alpha Isles"
+      },
+      "Alpine Grove": {
+        "textOverride": "🌲 Sinnoh — Mt. Coronet Alpine Grove"
+      },
+      "Alpine Highlands": {
+        "textOverride": "⛰️ Sinnoh — Alpine Highlands Route"
+      },
+      "Amethyst Canyon": {
+        "textOverride": "💜 Hoenn — Amethyst Canyon"
+      },
+      "Amethyst Rainforest": {
+        "textOverride": "🔮 Hoenn GYM — Looking for Tell & Pat (Mind Badge)"
+      },
+      "Ancient Sands": {
+        "textOverride": "🏺 Hoenn — Ancient Desert Ruins"
+      },
+      "Arid Highlands": {
+        "textOverride": "⚡ Hoenn GYM — Looking for Walter (Dynamo Badge)"
+      },
+      "Ashen Savanna": {
+        "textOverride": "🌋 Hoenn — Mt. Chimney Ash Plains"
+      },
+      "Basalt Cliffs": {
+        "textOverride": "🖤 Johto — Basalt Coast"
+      },
+      "Birch Taiga": {
+        "textOverride": "🌳 Johto — National Park Birch Woods"
+      },
+      "Blooming Plateau": {
+        "textOverride": "🌺 Johto — Ecruteak Blooming Plateau"
+      },
+      "Blooming Valley": {
+        "textOverride": "🌿 Sinnoh GYM — Looking for Gardenia (Forest Badge)"
+      },
+      "Brushland": {
+        "textOverride": "⚖️ Hoenn GYM — Looking for Norman (Balance Badge)"
+      },
+      "Bryce Canyon": {
+        "textOverride": "🏜️ Hoenn — Bryce Spire Desert"
+      },
+      "Caldera": {
+        "textOverride": "🌋 Hoenn — Groudon's Caldera"
+      },
+      "Cloud Forest": {
+        "textOverride": "☁️ Johto — Tin Tower Cloud Forest"
+      },
+      "Cold Shrubland": {
+        "textOverride": "❄️ Sinnoh — Route 215 Cold Shrubland"
+      },
+      "Deep Warm Ocean": {
+        "textOverride": "🌊 Hoenn — Seafloor Cavern Depths"
+      },
+      "Desert Canyon": {
+        "textOverride": "🏜️ Hoenn — Desert Canyon Pass"
+      },
+      "Desert Oasis": {
+        "textOverride": "🏆 Sinnoh E4 — Aaron / Terrie / Vulcano / Luciano await..."
+      },
+      "Desert Spires": {
+        "textOverride": "🗿 Hoenn — Sandstone Spire Wastes"
+      },
+      "Emerald Peaks": {
+        "textOverride": "💚 Kanto — Mt. Moon Emerald Peaks"
+      },
+      "Forested Highlands": {
+        "textOverride": "🔥 Hoenn GYM — Looking for Fiammetta (Heat Badge)"
+      },
+      "Fractured Savanna": {
+        "textOverride": "⚡ Hoenn — Fractured Savanna Route"
+      },
+      "Frozen Cliffs": {
+        "textOverride": "🧊 Sinnoh — Lake Acuity Frozen Cliffs"
+      },
+      "Glacial Chasm": {
+        "textOverride": "🧊 Sinnoh GYM — Looking for Bianca (Icicle Badge)"
+      },
+      "Granite Cliffs": {
+        "textOverride": "🪨 Kanto — Rock Tunnel Granite Walls"
+      },
+      "Gravel Beach": {
+        "textOverride": "🪨 Johto — Cianwood City Gravel Beach"
+      },
+      "Gravel Desert": {
+        "textOverride": "🏜️ Hoenn — Gravel Wasteland"
+      },
+      "Haze Mountain": {
+        "textOverride": "🌫️ Sinnoh — Foggy Mt. Coronet"
+      },
+      "Highlands": {
+        "textOverride": "⛰️ Johto — Route 45 Highlands"
+      },
+      "Hot Shrubland": {
+        "textOverride": "🌵 Hoenn — Route 111 Hot Shrubland"
+      },
+      "Ice Marsh": {
+        "textOverride": "❄️ Sinnoh — Snowpoint Ice Marsh"
+      },
+      "Jungle Mountains": {
+        "textOverride": "🌴 Johto — Mt. Mortar Jungle Peaks"
+      },
+      "Lavender Forest": {
+        "textOverride": "💜 Johto — Lavender Town Forest"
+      },
+      "Lavender Valley": {
+        "textOverride": "👻 Sinnoh GYM — Looking for Fannie (Relic Badge)"
+      },
+      "Lush Desert": {
+        "textOverride": "👊 Sinnoh GYM — Looking for Marzia (Cobble Badge)"
+      },
+      "Lush Valley": {
+        "textOverride": "🌿 Kanto — Pallet Town Lush Valley"
+      },
+      "Mirage Isles": {
+        "textOverride": "✨ Hoenn — Mirage Island — Wynaut Spotted?"
+      },
+      "Moonlight Grove": {
+        "textOverride": "🦅 Hoenn GYM — Looking for Alice (Feather Badge)"
+      },
+      "Moonlight Valley": {
+        "textOverride": "🌙 Johto — Whirl Islands Moonlit Valley"
+      },
+      "Orchid Swamp": {
+        "textOverride": "🐸 Johto — Slowpoke Well Orchid Swamp"
+      },
+      "Painted Mountains": {
+        "textOverride": "🎨 Hoenn — Painted Terracotta Peaks"
+      },
+      "Red Oasis": {
+        "textOverride": "🌴 Hoenn — Red Oasis — Rare Spawn Zone"
+      },
+      "Rocky Jungle": {
+        "textOverride": "🌴 Johto — Union Cave Rocky Jungle"
+      },
+      "Rocky Mountains": {
+        "textOverride": "🪨 Hoenn GYM — Looking for Petra (Stone Badge)"
+      },
+      "Rocky Shrubland": {
+        "textOverride": "🪨 Johto — Ruins of Alph Rocky Shrubs"
+      },
+      "Sakura Grove": {
+        "textOverride": "🌸 Johto — Ecruteak Sakura Grove"
+      },
+      "Sakura Valley": {
+        "textOverride": "🌸 Johto — Ecruteak Sakura Valley"
+      },
+      "Sandstone Valley": {
+        "textOverride": "🏜️ Hoenn — Sandstone Canyon Valley"
+      },
+      "Savanna Badlands": {
+        "textOverride": "🦁 Hoenn — Safari Zone Badlands"
+      },
+      "Savanna Slopes": {
+        "textOverride": "⛰️ Hoenn — Mt. Chimney Savanna Slopes"
+      },
+      "Scarlet Mountains": {
+        "textOverride": "❤️ Hoenn — Scarlet Mountain Pass"
+      },
+      "Shield": {
+        "textOverride": "🛡️ Kanto — Viridian Shield Biome"
+      },
+      "Shield Clearing": {
+        "textOverride": "🌿 Kanto — Viridian Clearing"
+      },
+      "Shrubland": {
+        "textOverride": "⚡ Sinnoh GYM — Looking for Corrado (Beacon Badge)"
+      },
+      "Siberian Grove": {
+        "textOverride": "❄️ Sinnoh — Siberian Grove"
+      },
+      "Siberian Taiga": {
+        "textOverride": "🌨️ Sinnoh — Route 216 Siberian Taiga"
+      },
+      "Skylands Autumn": {
+        "textOverride": "🍂 Sky — Autumn Skylands — Rayquaza Territory"
+      },
+      "Skylands Spring": {
+        "textOverride": "🌸 Sky — Spring Skylands — Rayquaza Territory"
+      },
+      "Skylands Summer": {
+        "textOverride": "☀️ Sky — Summer Skylands — Rayquaza Territory"
+      },
+      "Skylands Winter": {
+        "textOverride": "❄️ Sky — Winter Skylands — Rayquaza Territory"
+      },
+      "Snowy Badlands": {
+        "textOverride": "❄️ Sinnoh — Snowy Terracotta Wastes"
+      },
+      "Snowy Cherry Grove": {
+        "textOverride": "🌸 Sinnoh — Snowy Cherry Blossom Grove"
+      },
+      "Snowy Maple Forest": {
+        "textOverride": "🍁 Sinnoh — Snowy Maple Route"
+      },
+      "Snowy Shield": {
+        "textOverride": "🛡️ Sinnoh — Snowpoint Shield Tundra"
+      },
+      "Steppe": {
+        "textOverride": "🏆 Hoenn E4 — Fosco / Ester / Frida / Drake await..."
+      },
+      "Stony Spires": {
+        "textOverride": "🗿 Sinnoh — Spear Pillar Rock Spires"
+      },
+      "Temperate Highlands": {
+        "textOverride": "⛰️ Kanto — Temperate Highland Route"
+      },
+      "Tropical Jungle": {
+        "textOverride": "🌴 Hoenn — Route 119 Tropical Jungle"
+      },
+      "Valley Clearing": {
+        "textOverride": "🌿 Johto — Burned Tower Valley Clearing"
+      },
+      "Volcanic Crater": {
+        "textOverride": "🔩 Sinnoh GYM — Looking for Ferruccio (Mine Badge)"
+      },
+      "Volcanic Peaks": {
+        "textOverride": "🪨 Sinnoh GYM — Looking for Pedro (Coal Badge)"
+      },
+      "Warm River": {
+        "textOverride": "🌊 Hoenn — Route 119 Warm River"
+      },
+      "Warped Mesa": {
+        "textOverride": "💙 Warped Mesa — Strange Readings..."
+      },
+      "White Cliffs": {
+        "textOverride": "🤍 Johto — Olivine White Cliffs"
+      },
+      "White Mesa": {
+        "textOverride": "🤍 Kanto — White Rock Mesa"
+      },
+      "Windswept Spires": {
+        "textOverride": "💨 Sinnoh — Windswept Spires Route"
+      },
+      "Wintry Forest": {
+        "textOverride": "🌨️ Sinnoh — Eterna Wintry Forest"
+      },
+      "Wintry Lowlands": {
+        "textOverride": "❄️ Sinnoh — Snowpoint Wintry Lowlands"
+      },
+      "Yellowstone": {
+        "textOverride": "🌋 Hoenn — Yellowstone Geyser Fields"
+      },
+      "Yosemite Cliffs": {
+        "textOverride": "👊 Hoenn GYM — Looking for Rudi (Knuckle Badge)"
+      },
+      "Yosemite Lowlands": {
+        "textOverride": "🌿 Kanto — Pewter City Lowlands"
+      },
+      "Andesite Caves": {
+        "textOverride": "🪨 Underground — Andesite Cave System"
+      },
+      "Deep Caves": {
+        "textOverride": "🕳️ Underground — Deep Cave — Mining Outpost Ahead"
+      },
+      "Diorite Caves": {
+        "textOverride": "🪨 Underground — Diorite Cave System"
+      },
+      "Frostfire Caves": {
+        "textOverride": "🧊🔥 Underground — Frostfire Caves — Watch for Strays!"
+      },
+      "Fungal Caves": {
+        "textOverride": "🍄 Underground — Fungal Cave — Extra Coal!"
+      },
+      "Granite Caves": {
+        "textOverride": "🪨 Underground — Granite Cave — Aron Habitat?"
+      },
+      "Infested Caves": {
+        "textOverride": "⚠️ Underground — Infested Caves — Danger!"
+      },
+      "Mantle Caves": {
+        "textOverride": "🌋 Underground — Mantle Caves — Near Bedrock"
+      },
+      "Thermal Caves": {
+        "textOverride": "♨️ Underground — Thermal Caves — Drowned Beware!"
+      },
+      "Tuff Caves": {
+        "textOverride": "🪨 Underground — Tuff Cave System"
+      },
+      "Underground Jungle": {
+        "textOverride": "🌴 Underground — Underground Jungle — Giant Bee Hive?"
+      }
+    }
+  },
+  "dimensionSettings": {
+    "fallbackDimensionIcon": "unknown",
+    "dimensionData": {
+      "default": {
+        "textOverride": "Exploring the {dimension.name}"
+      },
+      "Overworld": {
+        "textOverride": "🌍 The Known Regions — Overworld"
+      },
+      "The Nether": {
+        "textOverride": "🔥 The Nether — Dangerous Territory"
+      },
+      "The End": {
+        "textOverride": "🏆 Elite Four Tower — Kanto & Johto E4 + Rayquaza!"
+      }
+    }
+  },
+  "serverSettings": {
+    "fallbackServerIcon": "default",
+    "fallbackServerName": "Kewz's Cobblemon",
+    "fallbackServerMotd": "Kewz's Cobblemon Server",
+    "serverData": {
+      "default": {
+        "textOverride": "🎮 Kewz's Cobblemon — {custom.players_online}"
+      },
+      "kewzcobblemon.mcserver.us": {
+        "textOverride": "⚔️ Kewz's Cobblemon — {custom.players_online}"
+      }
+    },
+    "pingRateInterval": 5,
+    "pingRateUnit": "minutes"
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "🏠 Kewz's Cobblemon — Main Menu"
+    },
+    "loadingData": {
+      "textOverride": "⏳ Loading Kewz's Cobblemon..."
+    },
+    "lanData": {
+      "textOverride": "🔗 Testing on LAN"
+    },
+    "singleplayerData": {
+      "textOverride": "🎒 Training Solo — {custom.trainer_hp}"
+    },
+    "realmData": {
+      "textOverride": "🌐 Playing on a Realm"
+    }
+  },
+  "advancedSettings": {
+    "enablePerGui": true,
+    "enablePerItem": false,
+    "enablePerEntity": true,
+    "formatWords": true,
+    "debugMode": false,
+    "verboseMode": false,
+    "refreshRate": 2,
+    "allowPlaceholderPreviews": false,
+    "guiSettings": {
+      "fallbackGuiIcon": "unknown",
+      "guiData": {
+        "default": {
+          "textOverride": "📋 In {screen.name}"
+        }
+      }
+    },
+    "itemMessages": {
+      "default": "Holding {item.name}"
+    },
+    "entitySettings": {
+      "fallbackEntityIcon": "unknown",
+      "targetData": {
+        "default": {
+          "textOverride": "🎯 Battling {entity.target.name}!"
+        }
+      },
+      "ridingData": {
+        "default": {
+          "textOverride": "🏇 Riding {entity.riding.name}"
+        }
+      }
+    },
+    "allowEndpointIcons": true,
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10,
+    "enableClassGraph": false
+  },
+  "accessibilitySettings": {
+    "languageId": "en_us",
+    "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
+    "stripExtraGuiElements": false,
+    "configKeyCode": 96
+  },
+  "displaySettings": {
+    "presenceData": {
+      "enabled": true,
+      "useAsMain": false,
+      "isInstance": false,
+      "activityType": 0,
+      "partyPrivacy": 1,
+      "details": "{getFirst(menu.message, biome.message, dimension.message)}",
+      "gameState": "{getFirst(entity.riding.message, entity.target.message, item.message.holding, server.message, custom.players_online)}",
+      "largeImageKey": "default",
+      "largeImageText": "Kewz's Cobblemon",
+      "smallImageKey": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
+      "smallImageText": "❤ {player.health.current}/{player.health.max} HP  |  📍 {player.position.x}, {player.position.z}",
+      "startTimestamp": "{data.general.time}",
+      "endTimestamp": "",
+      "buttons": {}
+    },
+    "dynamicIcons": {
+      "default": "https://i.imgur.com/dioT5Ay.png",
+      "kewzcobblemon.mcserver.us": "https://api.mcsrvstat.us/icon/kewzcobblemon.mcserver.us",
+      "Noobwithluckxd": "https://mc-heads.net/avatar/Noobwithluckxd",
+      "CarlsenR": "https://mc-heads.net/avatar/CarlsenR",
+      "omega_x234": "https://mc-heads.net/avatar/omega_x234",
+      "Kewzito": "https://mc-heads.net/avatar/Kewzito",
+      "Alfresy": "https://mc-heads.net/avatar/Alfresy",
+      "Chambanator": "https://mc-heads.net/avatar/Chambanator",
+      "GHOST087": "https://mc-heads.net/avatar/GHOST087"
+    },
+    "dynamicVariables": {
+      "trainer_hp": "❤ {player.health.current}/{player.health.max} HP",
+      "trainer_pos": "📍 {player.position.x}, {player.position.z}",
+      "players_online": "{server.players.current}/{server.players.max} Trainers Online",
+      "trainer_info": "Trainer {player.name}  ❤ {player.health.current}/{player.health.max}",
+      "trainer_card": "{player.name} ✦ {custom.players_online}",
+      "world_info": "World: {world.name}",
+      "mods": "{general.mods} Mod(s)",
+      "player_info_health": "❤ {player.health.current}/{player.health.max}",
+      "player_info_out": "Trainer: {player.name}",
+      "player_info_in": "({custom.player_info_health})",
+      "player_info_items": "🎒 {item.main_hand.message}",
+      "player_info_coordinate": "📍 {player.position.x}, {player.position.z}"
+    }
+  }
+}
