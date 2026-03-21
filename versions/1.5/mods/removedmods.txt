@@ -1,0 +1,4 @@
+cobblemon-battle-extras-fabric-1.10.34.jar
+cobblemon_battle_tower-fabric-1.9.17.jar
+playingcards-fabric-1.21.1-2.0.1.jar
+Ixeris-4.1.3+1.21.1-fabric.jar
