@@ -1,0 +1,7 @@
+cobbledollars-villagers-overhaul-rca-fabric-0.2.0.jar
+cobbledollars-villagers-overhaul-rca-fabric-0.1.1.6.jar
+cobblemon-battle-extras-fabric-1.11.36.jar
+fwa+1.21.1-1.1.13.jar
+InventoryParticles-1.5.0+1.21.1+fabric.jar
+Ixeris-4.1.4+1.21.1-fabric.jar
+MapDistanceFix-1.0.14+mc1.21-1.21.11.jar
