@@ -1,0 +1,26 @@
+{
+  "rain": {
+    "density": 0.30400002,
+    "windStrength": 0.2,
+    "stormWindStrength": 0.5,
+    "opacity": 0.55
+  },
+  "heavy_dust": {},
+  "mist_after_rain": {
+    "enabled": false
+  },
+  "ripple": {
+    "enabled": false
+  },
+  "snow": {},
+  "splatter": {},
+  "smoke": {
+    "enabled": false
+  },
+  "streak": {},
+  "dust": {},
+  "mist": {
+    "enabled": false
+  },
+  "shrub": {}
+}
