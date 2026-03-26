@@ -1,4 +1,4 @@
 AsyncParticles-3.4.0-beta.1+1.21.1.jar
 cobbledollars-villagers-overhaul-rca-fabric-0.2.1-hotfix.jar
 cobbledollars-villagers-overhaul-rca-fabric-0.2.0.jar
-ParticleEffects-1.3.0+1.21.1+fabric.jar
+particlerain-4.0.0-beta.5+1.21.1-fabric.jar
