@@ -1,0 +1,5 @@
+fwa+1.21.1-1.1.17.jar
+mapdistancefix-fabric-1.1.0+mc1.21-1.21.11.jar
+catchindicator-fabric-1.4.2.jar
+catchrate-display-fabric-2.8.3.jar
+cobblemon-battle-extras-fabric-1.11.37.jar
