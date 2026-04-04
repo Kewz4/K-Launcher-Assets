@@ -1,0 +1,16 @@
+entity_model_features_1.21-fabric-3.0.12.jar
+entity_texture_features_1.21-fabric-7.0.9.jar
+entityculling-fabric-1.9.5-mc1.21.1.jar
+fabric-api-0.116.9+1.21.1.jar
+fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar
+LumyMon-0.6.4.jar
+modmenu-11.0.3.jar
+moreculling-fabric-1.21.1-1.0.6.jar
+notenoughanimations-fabric-1.11.3-mc1.21.1.jar
+particlerain-4.0.0-beta.8+1.21.1-fabric.jar
+Platform-fabric-1.21.1-1.2.11.5.jar
+rctapi-fabric-1.21.1-0.14.8-beta.jar
+rctmod-fabric-1.21.1-0.17.6-beta.jar
+supermartijn642corelib-1.1.20-fabric-mc1.21.jar
+waystones-fabric-1.21.1-21.1.28.jar
+cobblemon-journey-mounts-1.7.30-cobbleverse.jar
