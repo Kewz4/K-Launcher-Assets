@@ -1,0 +1,4 @@
+cobblebase-fabric-1.2.0+1.7.0.jar
+cobblemon-battle-extras-fabric-1.11.40.jar
+cobblemon-battle-extras-fabric-1.11.39.jar
+force-beacon-load-1.0.2+mc1.21.1.jar
