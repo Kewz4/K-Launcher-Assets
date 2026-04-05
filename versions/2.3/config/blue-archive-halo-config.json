@@ -1,0 +1,286 @@
+{
+    "levels": {
+        "1": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 150.0,
+                    "r": 15.020326,
+                    "cycle": -232,
+                    "width": 1.0,
+                    "style": 0
+                }
+            ],
+            "henght": 169.12408,
+            "colorSpacing": 1,
+            "level": 1
+        },
+        "5": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 70.0,
+                    "r": 5.0,
+                    "cycle": -294,
+                    "width": 1.0,
+                    "style": 3
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 140.0,
+                    "r": 14.329268,
+                    "cycle": -328,
+                    "width": 1.0,
+                    "style": 1
+                },
+                {
+                    "index": 2,
+                    "maxRadius": 210.0,
+                    "r": 19.166666,
+                    "cycle": -856,
+                    "width": 1.0,
+                    "style": 3
+                },
+                {
+                    "index": 3,
+                    "maxRadius": 280.0,
+                    "r": 43.00813,
+                    "cycle": -1406,
+                    "width": 1.0,
+                    "style": 1
+                },
+                {
+                    "index": 4,
+                    "maxRadius": 350.0,
+                    "r": 62.5,
+                    "cycle": -729,
+                    "width": 1.0,
+                    "style": 3
+                }
+            ],
+            "henght": 250.0,
+            "colorSpacing": 1,
+            "level": 5
+        },
+        "2": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 100.0,
+                    "r": 8.089431,
+                    "cycle": -281,
+                    "width": 1.0,
+                    "style": 3
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 200.0,
+                    "r": 17.682926,
+                    "width": 1.0,
+                    "style": 1
+                }
+            ],
+            "henght": 220.0,
+            "colorSpacing": 1,
+            "level": 2
+        },
+        "16": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 100.0
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 200.0
+                },
+                {
+                    "index": 2,
+                    "maxRadius": 300.0
+                },
+                {
+                    "index": 3,
+                    "maxRadius": 400.0
+                },
+                {
+                    "index": 4,
+                    "maxRadius": 500.0
+                },
+                {
+                    "index": 5,
+                    "maxRadius": 600.0
+                },
+                {
+                    "index": 6,
+                    "maxRadius": 700.0
+                },
+                {
+                    "index": 7,
+                    "maxRadius": 800.0
+                },
+                {
+                    "index": 8,
+                    "maxRadius": 900.0
+                }
+            ],
+            "level": 16
+        },
+        "7": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 75.0,
+                    "r": 49.390244,
+                    "width": 1.0,
+                    "style": 0
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 150.0,
+                    "r": 76.91057,
+                    "width": 1.0,
+                    "style": 1
+                },
+                {
+                    "index": 2,
+                    "maxRadius": 225.0,
+                    "r": 103.373985,
+                    "width": 1.0,
+                    "style": 0
+                },
+                {
+                    "index": 3,
+                    "maxRadius": 300.0,
+                    "r": 106.93089,
+                    "width": 1.0,
+                    "style": 1
+                },
+                {
+                    "index": 4,
+                    "maxRadius": 375.0,
+                    "r": 83.21138,
+                    "width": 1.0,
+                    "style": 0
+                },
+                {
+                    "index": 5,
+                    "maxRadius": 450.0,
+                    "r": 42.987804,
+                    "cycle": 410,
+                    "width": 1.0,
+                    "style": 1
+                }
+            ],
+            "henght": 270.0,
+            "colorSpacing": 1,
+            "level": 7
+        },
+        "6": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 66.666664,
+                    "r": 5.0,
+                    "cycle": 547,
+                    "width": 2.3693693,
+                    "style": 1
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 133.33333,
+                    "r": 11.781842,
+                    "style": 0
+                },
+                {
+                    "index": 2,
+                    "maxRadius": 200.0,
+                    "r": 17.682926,
+                    "style": 1
+                },
+                {
+                    "index": 3,
+                    "maxRadius": 266.66666,
+                    "r": 29.46477,
+                    "style": 0
+                },
+                {
+                    "index": 4,
+                    "maxRadius": 333.3333,
+                    "r": 49.044712,
+                    "style": 1
+                },
+                {
+                    "index": 5,
+                    "maxRadius": 400.0,
+                    "r": 61.19919,
+                    "style": 0
+                }
+            ],
+            "henght": 260.0,
+            "colorSpacing": 1,
+            "level": 6
+        },
+        "4": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 75.0,
+                    "r": 9.552846,
+                    "cycle": -3936,
+                    "style": 3
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 150.0,
+                    "r": 19.146341,
+                    "style": 1
+                },
+                {
+                    "index": 2,
+                    "maxRadius": 225.0,
+                    "r": 34.512196,
+                    "style": 0
+                },
+                {
+                    "index": 3,
+                    "maxRadius": 300.0,
+                    "r": 45.772358,
+                    "style": 1
+                }
+            ],
+            "henght": 240.0,
+            "level": 4
+        },
+        "3": {
+            "rings": [
+                {
+                    "index": 0,
+                    "maxRadius": 83.333336,
+                    "r": 8.184282,
+                    "width": 1.0,
+                    "style": 3
+                },
+                {
+                    "index": 1,
+                    "maxRadius": 166.66667,
+                    "r": 14.200542,
+                    "width": 1.2522522
+                },
+                {
+                    "index": 2,
+                    "maxRadius": 250.0,
+                    "r": 22.926828,
+                    "width": 1.2522522,
+                    "style": 0
+                }
+            ],
+            "henght": 230.0,
+            "level": 3
+        }
+    },
+    "baseAlpha": 0.061032865,
+    "spacingAlpha": 0.0,
+    "spacingCount": 14,
+    "mixWhite": 0.0,
+    "pulseTail": 1.0
+}

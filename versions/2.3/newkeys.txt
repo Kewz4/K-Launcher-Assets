@@ -1,0 +1,2 @@
+key_key.cobblemon_smartphone.open:key.keyboard.unknown
+key_key.cobblebase.settings:key.keyboard.unknown
