@@ -1,0 +1,8 @@
+cobblebase-fabric-1.3.8+1.7.0.jar
+cobblebase-fabric-1.3.5+1.7.0.jar
+cobblebase-fabric-1.2.0+1.7.0.jar
+cobblemon-battle-extras-fabric-1.12.41.jar
+catchrate-display-fabric-2.8.11.jar
+zamega-fabric-1.7.1.jar
+Ixeris-4.1.6+1.21.1-fabric.jar
+Cobblemon-mount-mastery-0.1.1.jar
