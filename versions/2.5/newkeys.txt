@@ -1,0 +1,2 @@
+key_key.trashslot.toggle:key.keyboard.unknown
+key_key.autorun.toggle:key.keyboard.j
