@@ -1,0 +1,11 @@
+{
+  "animationPackSelections": {
+    "kind:bow": "pack:file/hyperpunchy-v2.5+.zip",
+    "kind:mace": "pack:file/§5untitled §6punchies §fv1.1.zip",
+    "kind:flint": "pack:file/§5untitled §6punchies §fv1.1.zip",
+    "kind:block": "pack:file/hyperpunchy-v2.5+.zip",
+    "kind:empty_hand": "pack:punchy:punchy"
+  },
+  "animationPackTypeSelections": {},
+  "mixSpecificForceOverride": {}
+}

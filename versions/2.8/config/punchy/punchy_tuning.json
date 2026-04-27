@@ -1,0 +1,69 @@
+{
+  "item": {},
+  "armMesh": {},
+  "chestProxy": {},
+  "fluidProxy": {},
+  "enchantParticleProxy": {},
+  "paddleProxy": {},
+  "fishingLineProxy": {},
+  "itemSpecific": {
+    "minecraft:lantern": {
+      "kind": "LANTERN",
+      "armKind": "LANTERN",
+      "physics": [
+        {
+          "name": "FULL_PENDULUM",
+          "limitDeg": 55.0,
+          "force": 0.1,
+          "speed": 1.0,
+          "cameraSens": 0.25,
+          "gravity": 25.0
+        }
+      ],
+      "disable_sprint_lateral_tilt": true,
+      "keep_arm_tuning": true,
+      "transforms": {
+        "right": {
+          "scale": 1.01,
+          "offX": -0.01999998,
+          "offY": -0.42999983,
+          "offZ": 0.189394,
+          "rotX": -23.0,
+          "rotY": 0.34091187,
+          "rotZ": -79.99999,
+          "pivotX": -0.109999955,
+          "pivotY": -0.00999999,
+          "pivotZ": -0.01999998,
+          "physics": "FULL_PENDULUM"
+        },
+        "left": {
+          "scale": 1.01,
+          "offX": 0.01999998,
+          "offY": -0.42999983,
+          "offZ": 0.189394,
+          "rotX": -23.0,
+          "rotY": -0.34091187,
+          "rotZ": 79.99999,
+          "pivotX": 0.109999955,
+          "pivotY": -0.00999999,
+          "pivotZ": -0.01999998,
+          "physics": "FULL_PENDULUM"
+        }
+      },
+      "armTransforms": {
+        "right": {
+          "scale": 1.0,
+          "offX": 0.0,
+          "offY": -0.16,
+          "offZ": -0.09999999,
+          "rotX": -23.0,
+          "rotY": -103.0,
+          "rotZ": -1.0,
+          "pivotX": 0.0,
+          "pivotY": 0.0,
+          "pivotZ": 0.0
+        }
+      }
+    }
+  }
+}
