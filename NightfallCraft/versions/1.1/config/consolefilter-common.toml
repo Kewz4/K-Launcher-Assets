@@ -1,11 +1,70 @@
 [general]
 	#Any console messages containing any of these strings will be hidden.
 	basicFilters = [
-		"[Continuity/]: Unknown block"
+		# Continuity / resource pack CTM spam
+		"Unknown block",
+		"Method 'ctm' requires at least",
+
+		# Mixin/refmap spam
+		"Failed to read refmap",
+		"Reference map",
+		"could not be read. If this is a development environment you can ignore this message",
+
+		# Missing animated_java model spam
+		"Unable to load model: 'animated_java:",
+		"java.io.FileNotFoundException: animated_java:models",
+
+		# Texture/sprite spam
+		"Invalid frame index on sprite",
+		"Missing sprite: minecraft:textures/continuity_reserved",
+		"Failed to load texture: minecraft:textures/models/armor/netherite_layer_",
+
+		# Epic Fight / addon spam
+		"is not a hit particle type",
+		"Datapack animation reading failed: No constructor information has provided",
+
+		# Entity data spam
+		"defineId called for:",
+
+		# Bedrock particle fallback spam
+		"Bedrock particle facing_camera_mode",
+
+		# Oculus / shader properties spam
+		"Unable to resolve shader pack option menu element",
+		"Error while parsing the block ID map entry",
+		"The block minecraft:creaking_heart has no property with the name active, ignoring",
+
+		# Sound file spam
+		"does not exist, cannot add it to event",
+
+		# Patchouli recipe spam
+		"Recipe irons_spellbooks:",
+		"(of type minecraft:crafting) not found",
+
+		# Xaero/SMSN optional compat spam
+		"xaero.common.patreon.Patreon",
+		"xaero.map.patreon.Patreon",
+		"@Mixin target xaero.common.patreon.Patreon was not found",
+		"@Mixin target xaero.map.patreon.Patreon was not found",
+
+		# Sodium/Iris compat class lookup spam
+		"net.caffeinemc.mods.sodium.client.model.light",
+		"net.coderbot.iris.pipeline.newshader.ExtendedShader",
+
+		# VIX mixin loader stdout spam
+		"[VIX Mixin Loader]Apply Default Mixin",
+		"[VIX Mixin Loader]Apply Compat Mixin",
+		"[VIX Mixin Loader]Skip Mixin"
 	]
 
 	#Any console messages containing any of these regular expressions will be hidden. Uses Java regex syntax. Backslashes must be doubled, i.e. use \\s instead of \s to match whitespace.
-	regexFilters = []
+	regexFilters = [
+		".*Continuity.*Unknown block.*",
+		".*Unable to load model: 'animated_java:.*",
+		".*Datapack animation reading failed: No constructor information has provided.*",
+		".*File .* does not exist, cannot add it to event .*",
+		".*Invalid frame index on sprite .* frame \\d+: \\d+.*"
+	]
 
 	#Any console messages from loggers with a name containing any of these strings will be hidden.
 	loggerFilters = []
