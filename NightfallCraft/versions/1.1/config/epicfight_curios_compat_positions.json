@@ -1,0 +1,150 @@
+{
+  "overrides": {
+    "lantern|0|minecraft:lantern": {
+      "x": -0.100000024,
+      "y": -0.35000002,
+      "z": 0.25,
+      "rotX": -184.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "head|0|artifacts:villager_hat": {
+      "x": 0.0,
+      "y": -0.100000024,
+      "z": 0.0,
+      "rotX": 180.0,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "ring|0|irons_spellbooks:frostward_ring": {
+      "x": -0.024999976,
+      "y": 0.0,
+      "z": 0.0,
+      "rotX": 0.0,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 0.516875
+    },
+    "necklace|0|artifacts:lucky_scarf": {
+      "x": 0.025000095,
+      "y": -0.22500002,
+      "z": 0.0,
+      "rotX": 0.0,
+      "rotY": -4.5,
+      "rotZ": 180.0,
+      "scale": 0.6075
+    },
+    "head|0|artifacts:cowboy_hat": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "rotX": -166.49998,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "head|0|artifacts:plastic_drinking_hat": {
+      "x": 0.025000095,
+      "y": -0.125,
+      "z": 0.0,
+      "rotX": -175.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "head|0|artifacts:novelty_drinking_hat": {
+      "x": 0.0,
+      "y": -0.125,
+      "z": 0.0,
+      "rotX": 193.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "head|0|artifacts:snorkel": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "rotX": 202.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "head|0|artifacts:night_vision_goggles": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "rotX": 207.0,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "head|0|artifacts:superstitious_hat": {
+      "x": 0.0,
+      "y": -0.22500002,
+      "z": 0.0,
+      "rotX": 180.0,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "necklace|0|artifacts:scarf_of_invisibility": {
+      "x": 0.0,
+      "y": -0.17499995,
+      "z": 0.0,
+      "rotX": 0.0,
+      "rotY": 0.0,
+      "rotZ": 180.0,
+      "scale": 0.69812506
+    },
+    "hands|0|artifacts:digging_claws": {
+      "x": -0.20000005,
+      "y": 0.67499995,
+      "z": 0.0,
+      "rotX": -175.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "hands|1|artifacts:digging_claws": {
+      "x": 0.125,
+      "y": 0.5999999,
+      "z": 0.07500005,
+      "rotX": -175.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "feet|0|artifacts:flippers": {
+      "x": 0.0,
+      "y": 0.099999905,
+      "z": 0.099999905,
+      "rotX": 184.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    },
+    "feet|0|artifacts:bunny_hoppers": {
+      "x": 0.0,
+      "y": -0.125,
+      "z": 0.125,
+      "rotX": 184.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 0.84312505
+    }
+  },
+  "sittingOverrides": {
+    "head|0|artifacts:villager_hat": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "rotX": 13.5,
+      "rotY": 0.0,
+      "rotZ": 0.0,
+      "scale": 1.0
+    }
+  }
+}
