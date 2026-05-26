@@ -1,3 +1,4 @@
 beyonddimensions-1.20.1-forge-0.7.19.jar
 endermanoverhaul-forge-1.20.1-1.0.4.jar
 creeperoverhaul-3.0.2-forge.jar
+tcrcore-2.7.15.jar
